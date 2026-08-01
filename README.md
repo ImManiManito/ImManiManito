@@ -27,13 +27,11 @@
 ```bash
 $ whoami
 ────────────────────────────────────────────────────
-  Name    : Manuel Mendoza
-  Role    : Cybersecurity Engineer Jr.
-  Focus   : Pentesting · SIEM · Vulnerability Management
-  Goal    : Red Team Operator
-  Company : Inntec Medios de Pago  [Sep 2025 — Present]
-  School  : CETI — Ing. Desarrollo de Software [2022–2026]
-  City    : Guadalajara, México 🇲🇽
+  Name       : Manuel Mendoza
+  Role       : Cybersecurity Engineer Jr.
+  Focus      : Pentesting · SIEM · Vulnerability Management
+  Goal       : Red Team Operator
+  Education  : Ing. Desarrollo de Software [2022–2026]
 ────────────────────────────────────────────────────
 ```
 
