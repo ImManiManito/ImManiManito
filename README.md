@@ -1,6 +1,6 @@
 # Manuel Mendoza
 
-**Cybersecurity Engineer** **DevSecOps** **Offensive Security**
+## **Cybersecurity Engineer** | **DevSecOps** | **Offensive Security**
 
 Guadalajara, México · jmanuel.mendoza.torres@gmail.com · [LinkedIn](https://www.linkedin.com/in/manuel-mendoza-7159ba360/) · [GitHub](https://github.com/ImManiManito)
 
