@@ -15,18 +15,15 @@ Cybersecurity Engineer con experiencia práctica en pentesting interno/externo, 
 ## Experiencia Profesional
 
 ### Ingeniero de Ciberseguridad Jr
-**Inntec Medios de Pago** | Septiembre 2025 – Actual
 
 - Administré la plataforma SIEM **Wazuh** para monitoreo de endpoints, centralización de eventos y detección temprana de amenazas en infraestructura corporativa.
 - Configuré y administré firewalls **Fortigate** y **Check Point**, incluyendo reglas de acceso, segmentación de red y conectividad VPN.
 - Ejecuté pruebas de penetración internas y externas, identifiqué vectores de ataque y entregué reportes técnicos con hallazgos y recomendaciones de remediación.
-- Diseñé e implementé **playbooks en Ansible** para automatizar procesos operativos recurrentes (diarios, mensuales y trimestrales), reduciendo la carga de trabajo manual y el margen de error.
-- Lideré el desarrollo de un **panel de control interactivo de KPIs** para visualización en tiempo real y toma de decisiones estratégicas basadas en datos.
+- Diseñé e implementé **playbooks en Ansible** para automatizar procesos operativos recurrentes (diarios, mensuales y trimestrales), reduciendo la carga de trabajo manual y el margen de error..
 - Realicé análisis de vulnerabilidades sobre **más de 50 activos**, priorizando hallazgos críticos y apoyando la coordinación de planes de remediación.
 - Generé documentación técnica y evidencias para procesos de auditoría y cumplimiento **ISO 27001** y **PCI DSS**.
 
 ### Auxiliar de Sistemas
-**INTECO Consultores** | Agosto 2024 – Febrero 2025
 
 - Brindé soporte de TI a clientes empresariales mediante mantenimiento preventivo y correctivo de infraestructura.
 - Administré entornos de virtualización en **VMware ESXi**, incluyendo aprovisionamiento y gestión de snapshots de máquinas virtuales.
