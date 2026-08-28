@@ -8,7 +8,7 @@ jmanuel.mendoza.torres@gmail.com · [LinkedIn](https://www.linkedin.com/in/manue
 
 ## Resumen Profesional
 
-Cybersecurity Engineer Jr con experiencia práctica en pentesting interno/externo, administración de SIEM (Wazuh), gestión de firewalls empresariales (Fortigate, Check Point) y automatización de controles de seguridad con Ansible. He liderado el desarrollo de un panel de KPIs, ejecutado análisis de vulnerabilidades en más de 50 activos y generado documentación para procesos de cumplimiento ISO 27001 y PCI DSS. Orientado a seguir desarrollándome como Pentester / Red Team Operator.
+Cybersecurity Engineer con experiencia práctica en pentesting interno/externo, administración de SIEM (Wazuh), gestión de firewalls empresariales (Fortigate, Check Point) y automatización de controles de seguridad con Ansible. He liderado el desarrollo de un panel de KPIs, ejecutado análisis de vulnerabilidades en más de 50 activos y generado documentación para procesos de cumplimiento ISO 27001 y PCI DSS. Orientado a seguir desarrollándome como Pentester / Red Team Operator.
 
 ---
 
