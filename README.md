@@ -32,16 +32,6 @@ Cybersecurity Engineer con experiencia práctica en pentesting interno/externo, 
 
 ---
 
-## Educación
-
-**Ingeniería en Desarrollo de Software**
-Centro de Enseñanza Técnica Industrial (CETI) | 2022 – 2026
-
-**Diplomado en Ciberseguridad**
-Coderfy | 2025
-
----
-
 ## Certificaciones
 
 - Fortinet NSE 1, NSE 2, NSE 3, NSE 4
