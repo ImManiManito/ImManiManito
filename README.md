@@ -14,7 +14,7 @@ Cybersecurity Engineer con experiencia práctica en pentesting interno/externo, 
 
 ## Experiencia Profesional
 
-### Ingeniero de Ciberseguridad Jr
+### Ingeniero de Ciberseguridad 
 
 - Administré la plataforma SIEM **Wazuh** para monitoreo de endpoints, centralización de eventos y detección temprana de amenazas en infraestructura corporativa.
 - Configuré y administré firewalls **Fortigate** y **Check Point**, incluyendo reglas de acceso, segmentación de red y conectividad VPN.
